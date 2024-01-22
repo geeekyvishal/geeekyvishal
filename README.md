@@ -19,7 +19,7 @@ I am a Computer Science Engineering student <img src="https://media.giphy.com/me
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/geekyvishal/)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-geekyvishal-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/geekyvishal/)
 
 
 
